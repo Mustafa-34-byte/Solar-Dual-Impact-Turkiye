@@ -1,0 +1,12 @@
+# Python 3.10+
+pandas
+numpy
+openpyxl
+matplotlib
+seaborn
+statsmodels
+patsy
+scikit-learn
+xgboost
+Pillow
+jupyter
