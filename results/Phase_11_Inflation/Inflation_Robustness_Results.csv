@@ -1,0 +1,6 @@
+Dependent Variable,Solar Coef (per unit share),Effect per +1pp,Std. Error,P-Value,R-squared,N
+MCP (level),-6955.1624,-69.5516,63.0299,0.0,0.798,35064
+a-FRR (level),10686.3211,106.8632,181.037,0.0,0.575,35064
+a-FRR / MCP ratio,38.3336,0.3833,1.3155,0.0,0.305,34995
+MCP / Price Cap,-1.9611,-0.0196,0.0187,0.0,0.7,35064
+a-FRR / Price Cap,3.4121,0.0341,0.0579,0.0,0.56,35064

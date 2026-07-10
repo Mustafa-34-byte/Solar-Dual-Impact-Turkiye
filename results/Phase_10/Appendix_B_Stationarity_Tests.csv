@@ -1,0 +1,5 @@
+Variable,ADF Statistic,ADF P-Value,KPSS Statistic,KPSS P-Value,KPSS 5% Crit.,Conclusion
+MCP (Day-Ahead Price),-9.4138,0.0,2.1447,0.01,0.463,Long memory / persistence (tests diverge)
+a-FRR Price (Level),-17.2104,0.0,0.7479,0.01,0.463,Long memory / persistence (tests diverge)
+a-FRR Price (1st Difference),-32.6812,0.0,0.0045,0.1,0.463,I(0) - Stationary (both)
+Solar Generation Share,-7.7781,0.0,17.7288,0.01,0.463,Long memory / persistence (tests diverge)

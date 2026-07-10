@@ -1,0 +1,5 @@
+Variable,VIF
+Solar_Generation_Share,1.29
+Consumption,1.51
+Wind_Generation,1.05
+Import_Coal_Generation,1.38

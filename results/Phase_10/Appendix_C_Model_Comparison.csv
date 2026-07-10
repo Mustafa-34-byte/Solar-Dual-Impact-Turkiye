@@ -1,0 +1,5 @@
+Market,Model,Order,AIC,Status
+MCP (Day-Ahead),Baseline,"(1,1,1)",10452.15,Rejected
+MCP (Day-Ahead),Optimized,"(2,0,2)","9356,99",Selected
+a-FRR (Balancing),Baseline,"(1,1,1)",10895.40,Rejected
+a-FRR (Balancing),Optimized,"(1,1,2)","9350,88",Selected

@@ -1,0 +1,10 @@
+Model,Variable,Coefficient,P-Value,Significance
+Model 4 (MCP Baseline),Solar_Generation_Share,-5152.06,< 0.001,***
+Model 4 (MCP Baseline),Consumption,+0.086,< 0.001,***
+Model 1 (a-FRR Baseline),Solar_Generation_Share,+3628.14,< 0.001,***
+Model 1 (a-FRR Baseline),Consumption,-0.081,< 0.001,***
+Model 5 (MCP Hourly),Hour_12:00 * Solar,-6834.85,< 0.001,*** (Max Drop)
+Model 2 (a-FRR Hourly),Hour_17:00 * Solar,+5098.73,< 0.001,*** (Max Risk)
+Model 7.3 (Regime),Solar (Base/Balanced),+4642.22,< 0.001,***
+Model 7.3 (Regime),Solar * Deficit (Up),+279.85,= 0.001,*** (Risk Premium)
+Model 7.3 (Regime),Solar * Surplus (Down),-124.23,= 0.115,NS (Insignificant)

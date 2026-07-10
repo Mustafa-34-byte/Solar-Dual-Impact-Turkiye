@@ -1,0 +1,18 @@
+PHASE 7: QUANTILE REGRESSION ROBUSTNESS REPORT
+================================================================================
+
+>>> HYPOTHESIS 1: MERIT-ORDER EFFECT ON MCP (ROBUSTNESS CHECK)
+---------------------------------------------------------------------------
+Quantile   | Coef (Solar)    | P-Value    | Status
+---------------------------------------------------------------------------
+Q10       | -3980.0145      | 0.0000     | CONFIRMED (-)
+Q50       | -5421.3302      | 0.0000     | CONFIRMED (-)
+Q90       | -2716.1559      | 0.0000     | CONFIRMED (-)
+
+>>> HYPOTHESIS 2: VOLATILITY EFFECT ON a-FRR (ROBUSTNESS CHECK)
+---------------------------------------------------------------------------
+Quantile   | Coef (Solar)    | P-Value    | Interpretation
+---------------------------------------------------------------------------
+Q10       |  1187.7769      | 0.0000     | Positive (+)
+Q50       |  5436.0774      | 0.0000     | Positive (+)
+Q90       | 11632.5420      | 0.0000     | CRITICAL STRESS (!)

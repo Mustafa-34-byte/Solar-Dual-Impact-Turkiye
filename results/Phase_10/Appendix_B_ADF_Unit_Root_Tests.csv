@@ -1,0 +1,5 @@
+Variable,ADF Statistic,P-Value,Result
+MCP (Day-Ahead Price),-9.4138,0.0,I(0) - Stationary
+a-FRR Price (Level),-17.2104,0.0,I(0) - Stationary
+a-FRR Price (1st Difference),-32.6812,0.0,I(0) - Stationary
+Solar Generation Share,-7.7781,0.0,I(0) - Stationary
