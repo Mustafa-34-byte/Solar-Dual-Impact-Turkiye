@@ -5,14 +5,15 @@ PHASE 7: QUANTILE REGRESSION ROBUSTNESS REPORT
 ---------------------------------------------------------------------------
 Quantile   | Coef (Solar)    | P-Value    | Status
 ---------------------------------------------------------------------------
-Q10       | -3980.0145      | 0.0000     | CONFIRMED (-)
-Q50       | -5421.3302      | 0.0000     | CONFIRMED (-)
-Q90       | -2716.1559      | 0.0000     | CONFIRMED (-)
+Q10       | -5031.8046      | 0.0000     | CONFIRMED (-)
+Q50       | -5432.0801      | 0.0000     | CONFIRMED (-)
+Q90       | -2734.7941      | 0.0000     | CONFIRMED (-)
+
 
 >>> HYPOTHESIS 2: VOLATILITY EFFECT ON a-FRR (ROBUSTNESS CHECK)
 ---------------------------------------------------------------------------
 Quantile   | Coef (Solar)    | P-Value    | Interpretation
 ---------------------------------------------------------------------------
-Q10       |  1187.7769      | 0.0000     | Positive (+)
-Q50       |  5436.0774      | 0.0000     | Positive (+)
-Q90       | 11632.5420      | 0.0000     | CRITICAL STRESS (!)
+Q10       |  1205.0014      | 0.0000     | Positive (+)
+Q50       |  5522.8724      | 0.0000     | Positive (+)
+Q90       | 11820.9214      | 0.0000     | CRITICAL STRESS (!)

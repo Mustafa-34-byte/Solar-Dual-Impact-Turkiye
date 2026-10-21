@@ -1,0 +1,9 @@
+﻿Specification,Beta (solar),t-stat,p-value
+"MCP - realised, same hour",-5346.5874,-43.6246,0.0
+MCP - solar lagged one day (D-1),-4250.2834,-31.5138,0.0
+MCP - real-time solar (D-1) + real-time consumption,-3912.333,-30.1155,0.0
+"MCP - fully ex-ante (real-time consumption, D-1)",-3020.2225,-23.5798,0.0
+"a-FRR - realised, same hour",8752.1053,25.2911,0.0
+a-FRR - solar lagged two days (D-2),6716.8931,20.5419,0.0
+a-FRR - real-time solar (D-2) + real-time consumption,6542.6689,20.794,0.0
+"a-FRR - fully ex-ante (real-time consumption, D-2)",5000.232,16.9307,0.0

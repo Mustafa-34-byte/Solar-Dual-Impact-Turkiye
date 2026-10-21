@@ -1,0 +1,7 @@
+Hypothesis,Quantile,Coef_iter1000,Converged_iter1000,Coef_iter2000,Converged_iter2000,Coef_iter5000,Converged_iter5000,Coef_iter10000,Converged_iter10000,Phase7_Code_Rerun,Table_1_Submitted
+MCP,0.1,-3039.1,False,-2685.4,False,-3075.9,False,-4531.3,False,-5009.1,-3980.01
+MCP,0.5,-5417.9,False,-5231.6,False,-5217.2,False,-5409.6,False,-1912.7,-5421.33
+MCP,0.9,-2390.8,False,-2516.8,False,-2671.4,False,-2707.0,False,-2700.1,-2716.16
+aFRR,0.1,1155.3,False,1139.9,False,1189.7,False,931.1,False,1188.5,1187.78
+aFRR,0.5,5492.0,False,4581.7,False,4486.0,False,5505.2,False,5464.4,5436.08
+aFRR,0.9,4117.4,False,6772.6,False,10789.3,False,11737.7,False,2209.4,11632.54

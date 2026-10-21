@@ -1,0 +1,15 @@
+Block,Specification,Dependent,Regressor,Beta,t_stat,p_value,N
+A: decision-time lag,"MCP - realised, same hour",Mcp,Solar_Generation_Share,-5346.587448662924,-43.62462546442298,0.0,35064
+A: decision-time lag,MCP - solar lagged one day (D-1),Mcp,solar_lag24,-4250.283388405387,-31.513771277975753,5.626231167733672e-218,35040
+A: decision-time lag,"a-FRR - realised, same hour",a-FRR_Price,Solar_Generation_Share,8752.105342254063,25.291110961736457,4.0010211520936266e-141,35064
+A: decision-time lag,a-FRR - solar lagged two days (D-2),a-FRR_Price,solar_lag48,6716.893059209691,20.541918621027218,9.08998726960292e-94,35016
+A': real-time (ex-ante),MCP - real-time solar (D-1) + real-time consumption,Mcp,rt_solar_lag24,-3912.332965331486,-30.115549996558055,3.0323112814818666e-199,35040
+A': real-time (ex-ante),"MCP - fully ex-ante (real-time consumption, D-1)",Mcp,rt_solar_lag24,-3020.222472973253,-23.579758766552615,6.218222832930962e-123,35040
+A': real-time (ex-ante),a-FRR - real-time solar (D-2) + real-time consumption,a-FRR_Price,rt_solar_lag48,6542.668865863448,20.79400115154251,4.904590424835738e-96,35016
+A': real-time (ex-ante),"a-FRR - fully ex-ante (real-time consumption, D-2)",a-FRR_Price,rt_solar_lag48,5000.232042774853,16.9307122224587,2.6712819357369046e-64,35016
+A': real-time horse-race,a-FRR ~ RT solar + RT consumption,a-FRR_Price,RT_Solar_Generation_Share,8540.199066444797,25.44562892663429,7.891440585274208e-143,35064
+A': real-time horse-race,a-FRR ~ RT solar + RT consumption,a-FRR_Price,RT_Consumption,-0.10895303351953206,-19.15386607077052,8.986123355334711e-82,35064
+B: horse-race,a-FRR ~ solar + consumption,a-FRR_Price,Solar_Generation_Share,8752.105342254063,25.291110961736457,4.0010211520936266e-141,35064
+B: horse-race,a-FRR ~ solar + consumption,a-FRR_Price,Consumption,-0.10600758882679825,-17.607192914650387,2.1694015133727235e-69,35064
+C: net-load mechanism,a-FRR ~ net load,a-FRR_Price,Net_Load,-0.13619418975502784,-21.81773104822233,1.5748129679253416e-105,35064
+C: net-load mechanism,a-FRR ~ net-load ramp + solar,a-FRR_Price,Net_Load_Ramp,0.08677045575738085,15.234467402572749,2.088218422031772e-52,35063

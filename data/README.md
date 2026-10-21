@@ -2,7 +2,8 @@
 
 ## Source
 
-All data are sourced from the **EPİAŞ (Energy Exchange Istanbul) Transparency Platform**:
+All data are sourced from the **EPİAŞ (Energy Exchange Istanbul) Transparency Platform**
+(real-time `RT_*` series: TEİAŞ real-time production data):
 https://seffaflik.epias.com.tr/home
 
 ## Dataset
@@ -12,7 +13,7 @@ https://seffaflik.epias.com.tr/home
 | Property | Value |
 |----------|-------|
 | Observations | 35,064 (hourly) |
-| Columns | 46 |
+| Columns | 48 |
 | Temporal index | `Date_Hour` |
 
 The workbook contains a single sheet (**`Sheet1`**) holding the hourly analysis dataset.
@@ -31,6 +32,8 @@ calendar (2022–2025).
 | `System_Direction_Up` | 0/1 | 1 = Energy Deficit (up-regulation needed) |
 | `Botas_Tariff` | TL/m³ | BOTAŞ natural gas tariff (Appendix I robustness) |
 | `BPM_Down_Regulation_Volume` | MWh | Manual down-regulation volume (Appendix H) |
+| `RT_Solar_Generation_Share` | proportion (0–1) | TEİAŞ real-time (ex-ante) solar generation / total generation (revision, Phase 11.2) |
+| `RT_Consumption` | MW | TEİAŞ real-time (ex-ante) system load (revision, Phase 11.2) |
 
 ## Other Variables
 

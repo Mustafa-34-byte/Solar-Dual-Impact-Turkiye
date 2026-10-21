@@ -1,6 +1,10 @@
 Parameter,Value,Rationale
-n_estimators,300,Convergence
-learning_rate,0.05,Robustness
-max_depth,5,Complexity
-objective,reg:squarederror,Loss Function
-subsample,0.8,Anti-Overfitting
+n_estimators,200,"Number of boosting rounds, fixed a priori"
+learning_rate,0.3 (library default),Library default
+max_depth,6 (library default),Library default
+subsample,1.0 (library default),Library default (no row subsampling)
+colsample_bytree,1.0 (library default),Library default (no column subsampling)
+objective (regressors),reg:squarederror,Squared-error loss for MCP and a-FRR price
+objective (classifier),binary:logistic,Log-loss for system direction
+random_state,42,"Reproducibility (same seed in Phases 6.1, 6.2, 6.4)"
+tuning,none (fixed a priori),"Interpretive cross-check (PDP), not a tuned forecaster; out-of-sample fit in Phase 6.4"

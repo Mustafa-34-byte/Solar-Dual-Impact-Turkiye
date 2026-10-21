@@ -1,0 +1,18 @@
+Diagnostic,Item,Value
+Correlation RT (ex-ante) vs settlement (ex-post) solar share,all hours,0.993955114390177
+Correlation solar share vs consumption,all hours,0.29866489154438375
+Correlation solar share vs consumption,hour 10,-0.15386796420574006
+Correlation solar share vs consumption,hour 12,-0.06852291160722032
+Correlation solar share vs consumption,hour 14,-0.04553878136502634
+Correlation solar share vs consumption,hour 16,0.040005122365101134
+Correlation solar share vs consumption,hour 17,0.04218079949387877
+Correlation solar share vs consumption,hour 18,0.03736333236457932
+Correlation solar share vs consumption,hour 19,0.08693630384929757
+Correlation solar share vs consumption,hour 20,0.22021887029913015
+VIF,Solar_Generation_Share,2.5606750200787074
+VIF,Consumption,3.7218357885983755
+VIF,Wind_Generation,1.2255854749379416
+VIF,Import_Coal_Generation,3.043530443680762
+VIF,Hydroelectric_Generation,3.0808712239346585
+VIF,Domestic_Coal_Generation,1.3975949544456263
+VIF,Price_Cap,1.1891974599000175
