@@ -1,0 +1,37 @@
+{
+ "data_sha256": "71e299d35f23f818e059e7e952700fc669ac778823074f10ec68b3f35369a78c",
+ "method": "R2 final | profile ML (multi-start; certified maximum or plateau) | 12-month terms; Phase 2 (1,1,1) no intercept; Phase 4 MCP (2,0,2) intercept, a-FRR (1,1,2) no intercept | data 71e299d35f23",
+ "created": "2026-11-21 02:40:14",
+ "environment": {
+  "python": "3.11.18",
+  "platform": "macOS-27.2-arm64-arm-64bit",
+  "machine": "arm64",
+  "cpu_count": 8,
+  "packages": {
+   "numpy": "2.3.5",
+   "pandas": "2.3.3",
+   "scipy": "1.16.3",
+   "statsmodels": "0.14.6",
+   "scikit-learn": "1.8.0",
+   "xgboost": "3.2.0",
+   "patsy": "1.0.3",
+   "joblib": "1.6.0",
+   "matplotlib": "3.10.9",
+   "seaborn": "0.13.2",
+   "openpyxl": "3.1.5"
+  }
+ },
+ "reference_environment": {
+  "numpy": "2.3.5",
+  "pandas": "2.3.3",
+  "scipy": "1.16.3",
+  "statsmodels": "0.14.6",
+  "scikit-learn": "1.8.0",
+  "xgboost": "3.2.0",
+  "patsy": "1.0.3",
+  "joblib": "1.6.0",
+  "matplotlib": "3.10.9",
+  "seaborn": "0.13.2",
+  "openpyxl": "3.1.5"
+ }
+}

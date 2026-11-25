@@ -1,6 +1,6 @@
-Dependent Variable,Solar Coef (per unit share),Effect per +1pp,Std. Error,P-Value,R-squared,N
-MCP (level),-6955.1624,-69.5516,63.0299,0.0,0.798,35064
-a-FRR (level),10686.3211,106.8632,181.037,0.0,0.575,35064
-a-FRR / MCP ratio,38.3336,0.3833,1.3155,0.0,0.305,34995
-MCP / Price Cap,-1.9611,-0.0196,0.0187,0.0,0.7,35064
-a-FRR / Price Cap,3.4121,0.0341,0.0579,0.0,0.56,35064
+Dependent Variable,Solar Coef (per unit share),Effect per +1pp,Std. Error,P-Value,R-squared,N,Clusters (days)
+MCP (level),-6884.8726,-68.8487,142.8372,0.0,0.801,35064,1461
+a-FRR (level),10955.5788,109.5558,447.291,0.0,0.585,35064,1461
+a-FRR / MCP ratio,38.4936,0.3849,3.3309,0.0,0.309,34995,1461
+MCP / Price Cap,-1.9264,-0.0193,0.0412,0.0,0.703,35064,1461
+a-FRR / Price Cap,3.4687,0.0347,0.1401,0.0,0.568,35064,1461

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the associated article."
+type: software
+title: "Solar PV Penetration, Merit-Order Effects and Balancing Reserve Costs in Türkiye's Electricity Market – replication package"
+authors:
+  - family-names: Akkaya
+    given-names: Mustafa Anıl
+  - family-names: Yetgin
+    given-names: Recep Uğur
+  - family-names: Kayalıca
+    given-names: Mehmet Özgür
+version: "RENE-D-26-09232-R2"
+repository-code: "https://github.com/Mustafa-34-byte/Solar-Dual-Impact-Turkiye"
+license: MIT
+preferred-citation:
+  type: unpublished
+  title: "Solar PV Penetration, Merit-Order Effects and Balancing Reserve Costs in Türkiye's Electricity Market"
+  authors:
+    - family-names: Akkaya
+      given-names: Mustafa Anıl
+    - family-names: Yetgin
+      given-names: Recep Uğur
+    - family-names: Kayalıca
+      given-names: Mehmet Özgür
+  year: 2026
+  notes: "Manuscript under review, Renewable Energy (RENE-D-26-09232)."

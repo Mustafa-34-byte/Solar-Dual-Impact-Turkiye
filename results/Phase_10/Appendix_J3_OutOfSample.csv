@@ -1,4 +1,4 @@
 ﻿Target,MAE,RMSE,Held-out fit,In-sample fit (full-sample model)
-MCP (price),407.0,528.0,R² = 0.527,R² = 0.933
-a-FRR (price),657.0,1037.0,R² = 0.424,R² = 0.910
-System direction (classifier),,,Acc = 0.696; F1 = 0.348; ROC-AUC = 0.657; balanced acc = 0.578; majority-class acc = 0.722,Acc = 0.861
+MCP (price),404.0,522.0,R² = 0.539,R² = 0.933
+a-FRR (price),653.0,1037.0,R² = 0.426,R² = 0.907
+System direction (classifier),,,Acc = 0.693; F1 = 0.357; ROC-AUC = 0.654; balanced acc = 0.580; majority-class acc = 0.722,Acc = 0.860

@@ -1,3 +1,3 @@
 === Appendix I: GAM Flexibility-Stress (Botaş Controlled) ===
-Deficit/Balanced R²: 0.3993
-Surplus R²: 0.5810
+Deficit/Balanced R²: 0.4053
+Surplus R²: 0.5928

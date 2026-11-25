@@ -1,6 +1,6 @@
 Metric,Value
-MCP Model R2 Score,0.932
-a-FRR (Volatility) R2 Score,0.91
+MCP Model R2 Score,0.933
+a-FRR (Volatility) R2 Score,0.907
 System Direction Accuracy (%),86.0
-Deficit Regime Model R2,0.9
+Deficit Regime Model R2,0.899
 Surplus Regime Model R2,0.97

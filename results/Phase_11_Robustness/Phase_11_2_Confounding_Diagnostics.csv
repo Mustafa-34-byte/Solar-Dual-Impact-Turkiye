@@ -1,18 +1,18 @@
 Diagnostic,Item,Value
-Correlation RT (ex-ante) vs settlement (ex-post) solar share,all hours,0.993955114390177
-Correlation solar share vs consumption,all hours,0.29866489154438375
-Correlation solar share vs consumption,hour 10,-0.15386796420574006
-Correlation solar share vs consumption,hour 12,-0.06852291160722032
-Correlation solar share vs consumption,hour 14,-0.04553878136502634
-Correlation solar share vs consumption,hour 16,0.040005122365101134
-Correlation solar share vs consumption,hour 17,0.04218079949387877
-Correlation solar share vs consumption,hour 18,0.03736333236457932
-Correlation solar share vs consumption,hour 19,0.08693630384929757
-Correlation solar share vs consumption,hour 20,0.22021887029913015
-VIF,Solar_Generation_Share,2.5606750200787074
-VIF,Consumption,3.7218357885983755
-VIF,Wind_Generation,1.2255854749379416
-VIF,Import_Coal_Generation,3.043530443680762
-VIF,Hydroelectric_Generation,3.0808712239346585
-VIF,Domestic_Coal_Generation,1.3975949544456263
-VIF,Price_Cap,1.1891974599000175
+Correlation RT (ex-ante) vs settlement (ex-post) solar share,all hours,0.9976255017622155
+Correlation solar share vs consumption,all hours,0.2921726796561947
+Correlation solar share vs consumption,hour 10,-0.16676592845013685
+Correlation solar share vs consumption,hour 12,-0.08543580222559059
+Correlation solar share vs consumption,hour 14,-0.0622934962919174
+Correlation solar share vs consumption,hour 16,0.03118954856752124
+Correlation solar share vs consumption,hour 17,0.03961106762567629
+Correlation solar share vs consumption,hour 18,0.03713301948912253
+Correlation solar share vs consumption,hour 19,0.08683194459032788
+Correlation solar share vs consumption,hour 20,0.21767702459602406
+VIF,Solar_Generation_Share,2.5640380831696823
+VIF,Consumption,3.704367540590226
+VIF,Wind_Generation,1.224925097494867
+VIF,Import_Coal_Generation,3.040210407492255
+VIF,Hydroelectric_Generation,3.1166337596809157
+VIF,Domestic_Coal_Generation,1.3994859331493297
+VIF,Price_Cap,1.1891538611632335

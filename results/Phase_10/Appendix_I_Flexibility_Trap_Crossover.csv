@@ -1,0 +1,2 @@
+Crossover_Solar_Share_pct,Upward_crossings_pct,Downward_crossings_pct,Flexibility_Trap_share_of_range_pct,Deficit_premium_share_of_range_pct,Common_range_pct,Grid_step_pct,Curves,xgboost_version
+,2.16; 23.96; 35.70,1.16; 4.06; 29.00; 36.44,20.0,80.0,0-45,0.6060606060606061,"XGBoost (n_estimators=200, random_state=42) with Botas_Tariff, other features at their medians",3.2.0

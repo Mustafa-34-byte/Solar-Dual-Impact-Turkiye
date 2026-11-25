@@ -1,7 +1,7 @@
 ﻿Quantity,Estimate
 Model,"Continuous regression kink (Hansen, 2017), least-squares grid 5–44%"
-Onset threshold γ (point estimate),19% solar share
-90% bootstrap confidence interval for γ,"[18%, 22%] (median 19%; day-clustered bootstrap, 200 reps)"
-Slope change at the kink δ (TL/MW per percentage point),75.7 (day-clustered bootstrap SE 14.3; t = 5.3); slope 55.7 below vs 131.3 above γ
-"Test of no kink (H0: δ = 0), sup-F",F = 821.0; day-clustered wild-bootstrap p < 0.005 (200 reps)
-Upper crossover (surplus overtakes deficit),"~33% (XGBoost interaction simulation, Phase 6.2; descriptive, no confidence interval)"
+Onset threshold γ (point estimate),20% solar share
+90% bootstrap confidence interval for γ,"[18%, 28%] (median 21%; day-clustered bootstrap, 200 reps)"
+Slope change at the kink δ (TL/MW per percentage point),80.8 (day-clustered bootstrap SE 19.7; t = 4.1); slope 56.4 below vs 137.2 above γ
+"Test of no kink (H0: δ = 0), sup-F",F = 984.0; day-clustered wild-bootstrap p < 0.005 (200 reps)
+Upper crossover (surplus overtakes deficit),"34.3% solar share (XGBoost interaction simulation, Phase 6.2; descriptive, no confidence interval)"

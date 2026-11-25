@@ -1,0 +1,11 @@
+2026-11-21 04:32:24 | C1_row1_Mcp_111 | start 'phase estimate' | llf -246135.0837 | certified | 286 filter passes | 2.5 min
+2026-11-21 04:32:26 | C1_row3_a-FRR_Price_111 | start 'phase estimate' | llf -258067.5098 | certified | 286 filter passes | 2.5 min
+2026-11-21 04:33:12 | C1_row4_a-FRR_Price_112 | start 'phase estimate' | llf -258034.0741 | certified | 400 filter passes | 3.3 min
+2026-11-21 04:34:10 | C1_row2_Mcp_202 | start 'phase estimate' | llf -246039.6366 | certified | 497 filter passes | 4.2 min
+2026-11-21 04:35:10 | C1_row1_Mcp_111 | start 'default' | llf -246135.0837 | certified | 330 filter passes | 2.8 min
+2026-11-21 04:35:29 | C1_row3_a-FRR_Price_111 | start 'default' | llf -258067.5098 | certified | 368 filter passes | 3.1 min
+2026-11-21 04:36:51 | C1_row5_a-FRR_Price_102 | start 'default' | llf -258025.3104 | certified | 461 filter passes | 3.6 min
+2026-11-21 04:40:59 | C1_row5_a-FRR_Price_102 | start 'arma0' | llf -258025.3104 | certified | 577 filter passes | 4.1 min
+2026-11-21 04:43:14 | C1_row2_Mcp_202 | start 'default' | llf -246039.6366 | certified | 1271 filter passes | 9.1 min
+2026-11-21 04:44:42 | C1_row5_a-FRR_Price_102 | start 'phase2' | llf -258025.3104 | certified | 489 filter passes | 3.7 min
+2026-11-21 04:47:48 | C1_row5_a-FRR_Price_102 | start 'grid' | llf -258025.3104 | certified | 360 filter passes | 3.1 min
